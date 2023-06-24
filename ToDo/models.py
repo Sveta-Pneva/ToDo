@@ -1,6 +1,6 @@
 from django.db import models
 
-from usersapp.models import CustomUser
+from User.models import CustomUser
 
 
 class Project(models.Model):
